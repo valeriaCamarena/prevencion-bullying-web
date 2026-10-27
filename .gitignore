@@ -1,0 +1,12 @@
+# Archivos temporales del editor
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Archivos locales de respaldo
+*.sql
+*.bak
+
+# No subir archivos de configuración privada de producción
+.env
